@@ -1,0 +1,11 @@
+News: No new Recently.
+
+{User=1-100
+Invest_Plan=Gold
+Total_Invest_Value=250
+Account_Date=90 Days}
+
+{User=1-200
+Invest_Plan=Diamond
+Total_Invest_Value=500
+Account_Date=50 Days}
