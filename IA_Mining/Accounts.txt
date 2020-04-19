@@ -1,8 +1,7 @@
-{User=1,100 Invest_Plan=Gold Total_Invest_Value=250 Account_Date=90 Day}
-{User=1,200 Invest_Plan=Diamond Total_Invest_Value=510 Account_Date=10 Day}
-{User=1,300 Invest_Plan=Supper Total_Invest_Value=550 Account_Date=20 Day}
-{User=1,400 Invest_Plan=Gold Total_Invest_Value=520 Account_Date=40 Day}
-{User=1,500 Invest_Plan=Diamond Total_Invest_Value=550 Account_Date=50 Day}
-{User=1,600 Invest_Plan=Gold Total_Invest_Value=580 Account_Date=70 Day}
-{User=1,700 Invest_Plan=Diamond Total_Invest_Value=550 Account_Date=80 Day}
-1,800 Invest_Plan=Gold Total_Invest_Value=250 Account_Date=90 Day
+{User=1,100 Name=Ibrahim_Amen1 Invest_Plan=Gold Total_Invest_Value=250 Account_Date=90 Day}
+{User=1,200 Name=Ibrahim_Amen2 Invest_Plan=Diamond Total_Invest_Value=510 Account_Date=10 Day}
+{User=1,300 Name=Ibrahim_Amen3 Invest_Plan=Supper Total_Invest_Value=550 Account_Date=20 Day}
+{User=1,400 Name=Ibrahim_Amen4 Invest_Plan=Gold Total_Invest_Value=520 Account_Date=40 Day}
+{User=1,500 Name=Ibrahim_Amen5 Invest_Plan=Diamond Total_Invest_Value=550 Account_Date=50 Day}
+{User=1,600 Name=Ibrahim_Amen6 Invest_Plan=Gold Total_Invest_Value=580 Account_Date=70 Day}
+{User=1,700 Name=Ibrahim_Amen7 Invest_Plan=Diamond Total_Invest_Value=550 Account_Date=80 Day}
