@@ -1,7 +1,7 @@
-{User=1,100 Name=Ibrahim_Amen1 Invest_Plan=Gold Total_Invest_Value=250 Account_Date=90Day}
-{User=1,200 Name=Ibrahim_Amen2 Invest_Plan=Diamond Total_Invest_Value=510 Account_Date=10Day}
-{User=1,300 Name=Ibrahim_Amen3 Invest_Plan=Supper Total_Invest_Value=550 Account_Date=20Day}
-{User=1,400 Name=Ibrahim_Amen4 Invest_Plan=Gold Total_Invest_Value=520 Account_Date=40Day}
-{User=1,500 Name=Ibrahim_Amen5 Plan=Diamond Invest=150 Date=80Day Referral=SADa00 Wallet=76321 Bonus=55 Earned=40}
-{User=1,600 Name=Ibrahim_Amen6 Plan=Gold Invest=50 Date=85Day Referral=SADacx100 Wallet=7654321 Bonus=5 Earned=200}
+{User=1,600 Name=Ibrahim_Amen1 Plan=Gold Invest=504 Date=30Day Referral=@!##Dac0 Wallet=VVX4321 Bonus=55 Earned=700}
+{User=1,600 Name=Ibrahim_Amen2 Plan=Gold Invest=505 Date=15Day Referral=99*ADacx100 Wallet=7DDAX321 Bonus=5 Earned=900}
+{User=1,600 Name=Ibrahim_Amen3 Plan=Gold Invest=990 Date=55Day Referral=001%$00 Wallet=0064321 Bonus=15 Earned=400}
+{User=1,600 Name=Ibrahim_Amen4 Plan=Gold Invest=580 Date=858Day Referral=SDc00 Wallet=76421 Bonus=57 Earned=150}
+{User=1,500 Name=Ibrahim_Amen5 Plan=Diamond Invest=150 Date=80Day Referral=ADa00 Wallet=7321 Bonus=55 Earned=40}
+{User=1,600 Name=Ibrahim_Amen6 Plan=Gold Invest=50 Date=85Day Referral=SADac00 Wallet=765321 Bonus=5 Earned=200}
 {User=1,700 Name=Ibrahim_Amen7 Plan=Diamond Invest=550 Date=80Day Referral=SADacx87100 Wallet=7654321 Bonus=5 Earned=90}
