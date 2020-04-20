@@ -1,7 +1,8 @@
-{User=1,100 Name=Ibrahim_Amen1 Invest_Plan=Gold Total_Invest_Value=250 Account_Date=90 Day}
-{User=1,200 Name=Ibrahim_Amen2 Invest_Plan=Diamond Total_Invest_Value=510 Account_Date=10 Day}
-{User=1,300 Name=Ibrahim_Amen3 Invest_Plan=Supper Total_Invest_Value=550 Account_Date=20 Day}
-{User=1,400 Name=Ibrahim_Amen4 Invest_Plan=Gold Total_Invest_Value=520 Account_Date=40 Day}
-{User=1,500 Name=Ibrahim_Amen5 Invest_Plan=Diamond Total_Invest_Value=550 Account_Date=50 Day}
-{User=1,600 Name=Ibrahim_Amen6 Invest_Plan=Gold Total_Invest_Value=580 Account_Date=70 Day}
-{User=1,700 Name=Ibrahim_Amen7 Invest_Plan=Diamond Total_Invest_Value=550 Account_Date=80 Day}
+{User=1,100 Name=Ibrahim_Amen1 Invest_Plan=Gold Total_Invest_Value=250 Account_Date=90Day}
+{User=1,200 Name=Ibrahim_Amen2 Invest_Plan=Diamond Total_Invest_Value=510 Account_Date=10Day}
+{User=1,300 Name=Ibrahim_Amen3 Invest_Plan=Supper Total_Invest_Value=550 Account_Date=20Day}
+{User=1,400 Name=Ibrahim_Amen4 Invest_Plan=Gold Total_Invest_Value=520 Account_Date=40Day}
+{User=1,500 Name=Ibrahim_Amen5 Invest_Plan=Diamond Total_Invest_Value=550 Account_Date=50Day}
+{User=1,600 Name=Ibrahim_Amen6 Invest_Plan=Gold Total_Invest_Value=580 Account_Date=70Day}
+{User=1,700 Name=Ibrahim_Amen7 Invest_Plan=Diamond Total_Invest_Value=550 Account_Date=80Day Referral_code=SADacx87100 Wallet=7654321}
+{User=2,800 Name=Ibrahim_Amen8 Invest_Plan=Diamond Total_Invest_Value=550 Account_Date=80Day Referral_code=SADacx87100 Wallet=1234567}
